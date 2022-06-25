@@ -1,0 +1,55 @@
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan Kos.csprojAssemblyReference.cache
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.BaseLogin.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.Form1.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.Properties.Resources.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan Kos.csproj.GenerateResource.cache
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan Kos.csproj.CoreCompileInputs.cache
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\bin\Debug\Wildan Kos.exe.config
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\bin\Debug\Wildan Kos.exe
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\bin\Debug\Wildan Kos.pdb
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan Kos.exe
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan Kos.pdb
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.LoginPemilik.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.MenuPemilik.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.ProfilPemilik.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.UbahProfilPemilik.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.LoginPenyewa.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.RegisterPenyewa.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.UserPenyewa.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.MenuPenyewa.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.LihatDataAkun.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.LihatDataKamar.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.MenambahDataKamar.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.LihatDataKamarAsPenyewa.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.ProfilPenyewa.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.UbahDataProfilPenyewa.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.LihatBuktiPembayaranPenyewa.resources
+R:\C++ Projek RealTime\CSharp\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.UploadBuktiPembayaran.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\bin\Debug\Wildan Kos.exe.config
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\bin\Debug\Wildan Kos.exe
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\bin\Debug\Wildan Kos.pdb
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan Kos.csproj.AssemblyReference.cache
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan Kos.csproj.SuggestedBindingRedirects.cache
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.BaseLogin.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.Form1.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.LihatBuktiPembayaranPenyewa.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.LihatDataAkun.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.LihatDataKamar.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.LihatDataKamarAsPenyewa.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.ProfilPenyewa.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.LoginPemilik.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.LoginPenyewa.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.MenambahDataKamar.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.MenuPenyewa.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.RegisterPenyewa.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.UbahDataProfilPenyewa.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.UploadBuktiPembayaran.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.UserPenyewa.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.MenuPemilik.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.ProfilPemilik.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.Properties.Resources.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan_Kos.UbahProfilPemilik.resources
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan Kos.csproj.GenerateResource.cache
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan Kos.csproj.CoreCompileInputs.cache
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan Kos.exe
+D:\Porjek\Wildan Kos\Wildan Kos\Wildan Kos\obj\Debug\Wildan Kos.pdb

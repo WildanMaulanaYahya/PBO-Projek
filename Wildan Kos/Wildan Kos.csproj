@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3BE8627F-E3E2-4151-A5E7-6BFDD87FCF09}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Wildan_Kos</RootNamespace>
+    <AssemblyName>Wildan Kos</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseLogin.Designer.cs">
+      <DependentUpon>BaseLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KamarKos.cs" />
+    <Compile Include="LihatBuktiPembayaranPenyewa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LihatBuktiPembayaranPenyewa.Designer.cs">
+      <DependentUpon>LihatBuktiPembayaranPenyewa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LihatDataAkun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LihatDataAkun.Designer.cs">
+      <DependentUpon>LihatDataAkun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LihatDataKamar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LihatDataKamar.Designer.cs">
+      <DependentUpon>LihatDataKamar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LihatDataKamarAsPenyewa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LihatDataKamarAsPenyewa.Designer.cs">
+      <DependentUpon>LihatDataKamarAsPenyewa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfilPenyewa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfilPenyewa.Designer.cs">
+      <DependentUpon>ProfilPenyewa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPenyewa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginPenyewa.Designer.cs">
+      <DependentUpon>LoginPenyewa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenambahDataKamar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenambahDataKamar.Designer.cs">
+      <DependentUpon>MenambahDataKamar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPenyewa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPenyewa.Designer.cs">
+      <DependentUpon>MenuPenyewa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Penyewa.cs" />
+    <Compile Include="UbahDataProfilPenyewa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UbahDataProfilPenyewa.Designer.cs">
+      <DependentUpon>UbahDataProfilPenyewa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UploadBuktiPembayaran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UploadBuktiPembayaran.Designer.cs">
+      <DependentUpon>UploadBuktiPembayaran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPenyewa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserPenyewa.Designer.cs">
+      <DependentUpon>UserPenyewa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPemilik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginPemilik.Designer.cs">
+      <DependentUpon>LoginPemilik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPemilik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPemilik.Designer.cs">
+      <DependentUpon>MenuPemilik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pemilik.cs" />
+    <Compile Include="ProfilPemilik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfilPemilik.Designer.cs">
+      <DependentUpon>ProfilPemilik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegisterPenyewa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterPenyewa.Designer.cs">
+      <DependentUpon>RegisterPenyewa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UbahProfilPemilik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UbahProfilPemilik.Designer.cs">
+      <DependentUpon>UbahProfilPemilik.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BaseLogin.resx">
+      <DependentUpon>BaseLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LihatBuktiPembayaranPenyewa.resx">
+      <DependentUpon>LihatBuktiPembayaranPenyewa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LihatDataAkun.resx">
+      <DependentUpon>LihatDataAkun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LihatDataKamar.resx">
+      <DependentUpon>LihatDataKamar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LihatDataKamarAsPenyewa.resx">
+      <DependentUpon>LihatDataKamarAsPenyewa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfilPenyewa.resx">
+      <DependentUpon>ProfilPenyewa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginPemilik.resx">
+      <DependentUpon>LoginPemilik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginPenyewa.resx">
+      <DependentUpon>LoginPenyewa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenambahDataKamar.resx">
+      <DependentUpon>MenambahDataKamar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPenyewa.resx">
+      <DependentUpon>MenuPenyewa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterPenyewa.resx">
+      <DependentUpon>RegisterPenyewa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UbahDataProfilPenyewa.resx">
+      <DependentUpon>UbahDataProfilPenyewa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UploadBuktiPembayaran.resx">
+      <DependentUpon>UploadBuktiPembayaran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPenyewa.resx">
+      <DependentUpon>UserPenyewa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPemilik.resx">
+      <DependentUpon>MenuPemilik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfilPemilik.resx">
+      <DependentUpon>ProfilPemilik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UbahProfilPemilik.resx">
+      <DependentUpon>UbahProfilPemilik.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
